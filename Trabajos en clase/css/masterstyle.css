@@ -1,20 +1,20 @@
 *{
     padding:0;
     margin:0;
-    color:#eee;
+    color:#F2E29F;
     text-align:center;
 
 }
 
 html,body{
-    background-color: blue;
+    background-color:#624E04;
 }
 
 .main-container{
     border: 5px solid rgb(190, 13, 116);
     border-radius: 10px;
     margin: 2rem;
-    background-color: #f315d5;
+    background-color: #D9B26F;
 
 }
 
@@ -27,12 +27,12 @@ nav, section, footer, article, aside{
 }
 
 article, aside{
-    width:60%;
+    width:40%;
     display: inline-block;
-    height: 200px;
+    height: 300px;
     background-color: rgb(107,107,107);
 }
 
 nav, section, footer{
-    background-color: rgb(107, 107, 10);
+    background-color:#A69658;
 }
