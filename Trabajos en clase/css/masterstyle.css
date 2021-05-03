@@ -3,5 +3,36 @@
     margin:0;
     color:#eee;
     text-align:center;
-    
+
+}
+
+html,body{
+    background-color: blue;
+}
+
+.main-container{
+    border: 5px solid rgb(190, 13, 116);
+    border-radius: 10px;
+    margin: 2rem;
+    background-color: #f315d5;
+
+}
+
+nav, section, footer, article, aside{
+    border: 2px solid rgb(225, 120, 120);
+    margin:1rem;
+    border-radius: 10px;
+    padding: 1rem;
+
+}
+
+article, aside{
+    width:60%;
+    display: inline-block;
+    height: 200px;
+    background-color: rgb(107,107,107);
+}
+
+nav, section, footer{
+    background-color: rgb(107, 107, 10);
 }
